@@ -1,0 +1,6 @@
+
+p1	DSC00207.jpg
+p2	DSC00225.jpg
+p3	DSC00331.jpg
+p4	DSC00353.jpg
+
